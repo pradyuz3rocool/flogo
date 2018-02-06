@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Apps on Project Flogo - Docs and Tutorials</title>
+    <link>https://tibcosoftware.github.io/flogo/development/apps/</link>
+    <description>Recent content in Apps on Project Flogo - Docs and Tutorials</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://tibcosoftware.github.io/flogo/development/apps/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>App structure</title>
+      <link>https://tibcosoftware.github.io/flogo/development/apps/app-structure/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tibcosoftware.github.io/flogo/development/apps/app-structure/</guid>
+      <description> Every Flogo app has the same basic structure and files for an application.
+my_app/ flogo.json src/ my_app/ imports.go main.go vendor/  files The most important files are
+ flogo.json : flogo project application configuration descriptor file imports.go : contains go imports for contributions (activities, triggers and models) used by the application main.go : main file for the engine.  directories The most important directories are
+ src : the place where all code is stored vendor : the place where go libraries are stored  </description>
+    </item>
+    
+    <item>
+      <title>App configuration</title>
+      <link>https://tibcosoftware.github.io/flogo/development/apps/app-configuration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tibcosoftware.github.io/flogo/development/apps/app-configuration/</guid>
+      <description>The flogo.json file is the metadata describing the application project.
+{ &amp;quot;name&amp;quot;: &amp;quot;myApp&amp;quot;, &amp;quot;type&amp;quot;: &amp;quot;flogo:app&amp;quot;, &amp;quot;version&amp;quot;: &amp;quot;0.0.1&amp;quot;, &amp;quot;description&amp;quot;: &amp;quot;My flogo application description&amp;quot;, &amp;quot;triggers&amp;quot;: [ { &amp;quot;id&amp;quot;: &amp;quot;my_rest_trigger&amp;quot;, &amp;quot;ref&amp;quot;: &amp;quot;github.com/TIBCOSoftware/flogo-contrib/trigger/rest&amp;quot;, &amp;quot;settings&amp;quot;: { &amp;quot;port&amp;quot;: &amp;quot;9233&amp;quot; }, &amp;quot;handlers&amp;quot;: [ { &amp;quot;actionId&amp;quot;: &amp;quot;my_simple_flow&amp;quot;, &amp;quot;settings&amp;quot;: { &amp;quot;method&amp;quot;: &amp;quot;GET&amp;quot;, &amp;quot;path&amp;quot;: &amp;quot;/test&amp;quot; } } ] } ], &amp;quot;actions&amp;quot;: [ { &amp;quot;id&amp;quot;: &amp;quot;my_simple_flow&amp;quot;, &amp;quot;ref&amp;quot;: &amp;quot;github.com/TIBCOSoftware/flogo-contrib/action/flow&amp;quot;, &amp;quot;data&amp;quot;: { &amp;quot;flow&amp;quot;: { &amp;quot;attributes&amp;quot;: [], &amp;quot;rootTask&amp;quot;: { &amp;quot;id&amp;quot;: 1, &amp;quot;type&amp;quot;: 1, &amp;quot;tasks&amp;quot;: [ { &amp;quot;id&amp;quot;: 2, &amp;quot;type&amp;quot;: 1, &amp;quot;activityRef&amp;quot;: &amp;quot;github.</description>
+    </item>
+    
+  </channel>
+</rss>

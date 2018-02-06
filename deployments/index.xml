@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cloud Deployments on Project Flogo - Docs and Tutorials</title>
+    <link>https://tibcosoftware.github.io/flogo/deployments/</link>
+    <description>Recent content in Cloud Deployments on Project Flogo - Docs and Tutorials</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://tibcosoftware.github.io/flogo/deployments/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Docker</title>
+      <link>https://tibcosoftware.github.io/flogo/deployments/docker/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tibcosoftware.github.io/flogo/deployments/docker/</guid>
+      <description>Flogo is an Ultralight Edge Microservices Framework so building docker images is not only really easy, because it can embed all dependencies it can also run inside of super small docker containers.
+Using flogo Out of the box, Flogo has the option to build a docker container from the app.
+flogo build -e -docker &amp;lt;trigger id&amp;gt;  The above command will build a Flogo app, with embedded configuration (-e), and create a docker image where it can expose the PORT based on which trigger ID you specify.</description>
+    </item>
+    
+    <item>
+      <title>Cloud Foundry</title>
+      <link>https://tibcosoftware.github.io/flogo/deployments/cloud-foundry/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tibcosoftware.github.io/flogo/deployments/cloud-foundry/</guid>
+      <description>Cloud Foundry is an open-source platform as a service (PaaS) that provides you with a choice of clouds, developer frameworks, and application services.
+If you want to run Flogo apps in a Cloud Foundry environment, you have two options:
+ Using docker containers Using the binary buildpack  If you want to try out Pivotal Cloud Foundry, you might to check out PCF Dev and follow the first three steps to get your environment up and running.</description>
+    </item>
+    
+    <item>
+      <title>Kubernetes</title>
+      <link>https://tibcosoftware.github.io/flogo/deployments/kubernetes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tibcosoftware.github.io/flogo/deployments/kubernetes/</guid>
+      <description>Kubernetes is an open-source system for automating deployment, scaling, and management of containerized applications. It groups containers that make up an application into logical units for easy management and discovery.
+For this scenario to work you&amp;rsquo;ll need to have access to a Kubernetes environment. If you haven’t set up your own Kubernetes cluster yet, you might want to look at minikube. The team has made an amazing effort to make it super easy to run your own cluster locally with minimal installation effort.</description>
+    </item>
+    
+  </channel>
+</rss>

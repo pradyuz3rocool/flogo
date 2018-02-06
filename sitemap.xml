@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://tibcosoftware.github.io/flogo/introduction/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tibcosoftware.github.io/flogo/getting-started/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tibcosoftware.github.io/flogo/getting-started/quickstart/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tibcosoftware.github.io/flogo/getting-started/getting-started-webui/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tibcosoftware.github.io/flogo/getting-started/getting-started-cli/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tibcosoftware.github.io/flogo/configuration/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tibcosoftware.github.io/flogo/configuration/environment-vars/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tibcosoftware.github.io/flogo/development/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tibcosoftware.github.io/flogo/development/interactive-labs/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tibcosoftware.github.io/flogo/development/interactive-labs/flogo-cli-interactive-lab/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tibcosoftware.github.io/flogo/development/interactive-labs/flogo-web-interactive-lab/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tibcosoftware.github.io/flogo/development/apps/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tibcosoftware.github.io/flogo/development/apps/app-structure/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tibcosoftware.github.io/flogo/development/flows/tensorflow/getting-started/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tibcosoftware.github.io/flogo/development/apps/app-configuration/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tibcosoftware.github.io/flogo/development/flows/tensorflow/inferencing-tf/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tibcosoftware.github.io/flogo/development/flows/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tibcosoftware.github.io/flogo/development/flows/tensorflow/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tibcosoftware.github.io/flogo/development/flows/io-parameters/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tibcosoftware.github.io/flogo/development/flows/iterators/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tibcosoftware.github.io/flogo/development/flows/mapping/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tibcosoftware.github.io/flogo/development/extensions/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tibcosoftware.github.io/flogo/development/extensions/building-your-first-activity/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tibcosoftware.github.io/flogo/development/extensions/continuously-testing-flogo-activities/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tibcosoftware.github.io/flogo/development/extensions/application-configuration-provider/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tibcosoftware.github.io/flogo/flogo-cli/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tibcosoftware.github.io/flogo/flogo-cli/tools-overview/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tibcosoftware.github.io/flogo/flogo-cli/flogo-cli/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tibcosoftware.github.io/flogo/flogo-cli/flogogen-cli/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tibcosoftware.github.io/flogo/flogo-cli/flogodevice-cli/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tibcosoftware.github.io/flogo/deployments/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tibcosoftware.github.io/flogo/deployments/docker/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tibcosoftware.github.io/flogo/deployments/cloud-foundry/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tibcosoftware.github.io/flogo/deployments/kubernetes/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tibcosoftware.github.io/flogo/iot/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tibcosoftware.github.io/flogo/iot/how-to/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tibcosoftware.github.io/flogo/iot/device-pi/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tibcosoftware.github.io/flogo/iot/device-edison/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tibcosoftware.github.io/flogo/iot/device-chip/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tibcosoftware.github.io/flogo/iot/device-beaglebone/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tibcosoftware.github.io/flogo/faas/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tibcosoftware.github.io/flogo/faas/how-to/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tibcosoftware.github.io/flogo/contributing/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tibcosoftware.github.io/flogo/contributing/contribute-to-docs/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tibcosoftware.github.io/flogo/contributing/contribute-to-showcase/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tibcosoftware.github.io/flogo/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tibcosoftware.github.io/flogo/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://tibcosoftware.github.io/flogo/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

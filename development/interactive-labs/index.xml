@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Labs on Project Flogo - Docs and Tutorials</title>
+    <link>https://tibcosoftware.github.io/flogo/development/interactive-labs/</link>
+    <description>Recent content in Labs on Project Flogo - Docs and Tutorials</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://tibcosoftware.github.io/flogo/development/interactive-labs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Flogo CLI</title>
+      <link>https://tibcosoftware.github.io/flogo/development/interactive-labs/flogo-cli-interactive-lab/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tibcosoftware.github.io/flogo/development/interactive-labs/flogo-cli-interactive-lab/</guid>
+      <description>To check out the Flogo CLI without installing anything on your local machine check out this interactive tutorial</description>
+    </item>
+    
+    <item>
+      <title>Flogo Web UI</title>
+      <link>https://tibcosoftware.github.io/flogo/development/interactive-labs/flogo-web-interactive-lab/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tibcosoftware.github.io/flogo/development/interactive-labs/flogo-web-interactive-lab/</guid>
+      <description>To check out the Flogo Web UI without installing anything on your local machine check out this interactive tutorial</description>
+    </item>
+    
+  </channel>
+</rss>

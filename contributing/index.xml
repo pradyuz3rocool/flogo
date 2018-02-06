@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Contribute on Project Flogo - Docs and Tutorials</title>
+    <link>https://tibcosoftware.github.io/flogo/contributing/</link>
+    <description>Recent content in Contribute on Project Flogo - Docs and Tutorials</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://tibcosoftware.github.io/flogo/contributing/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Building the docs website</title>
+      <link>https://tibcosoftware.github.io/flogo/contributing/contribute-to-docs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tibcosoftware.github.io/flogo/contributing/contribute-to-docs/</guid>
+      <description>If you want to contribute to the documentation, that is awesome! Your help is very much appreciated, but please do keep in mind the instructions below.
+Prerequisites These documentation pages are built with Hugo and we do make some assumptions:
+ You have Git 2.5 or greater installed on your machine. You have a GitHub account. Signing up for GitHub is free. You have Hugo installed on your machine.  In Hugo, pages are the core of your site.</description>
+    </item>
+    
+    <item>
+      <title>Contributing to the Showcase</title>
+      <link>https://tibcosoftware.github.io/flogo/contributing/contribute-to-showcase/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tibcosoftware.github.io/flogo/contributing/contribute-to-showcase/</guid>
+      <description>Have an activity, trigger or app that you want to share with the Flogo comunity? That&amp;rsquo;s awesome! To contribute to the showcase follow the steps below.
+Folders The showcase is located at the root of the flogo repo and is structured as follows.
+showcases ├── data │ ├── items.toml &amp;lt;-- the showcase data file  items.toml is the file that you&amp;rsquo;ll need to edit to add your activity, trigger or app.</description>
+    </item>
+    
+  </channel>
+</rss>

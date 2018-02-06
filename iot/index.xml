@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>IoT on Project Flogo - Docs and Tutorials</title>
+    <link>https://tibcosoftware.github.io/flogo/iot/</link>
+    <description>Recent content in IoT on Project Flogo - Docs and Tutorials</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://tibcosoftware.github.io/flogo/iot/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How-to for IOT</title>
+      <link>https://tibcosoftware.github.io/flogo/iot/how-to/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tibcosoftware.github.io/flogo/iot/how-to/</guid>
+      <description>Creating a flogo application is easy and we&amp;rsquo;ve outlined the steps for you in this howto guide. This guide will walk you through the steps required to create a simple flogo application which can also be used on an IOT device.
+Prerequisites Before you can get started building IOT applications with flogo, you need to have the following prerequisites installed:
+ The Go programming language should be installed. In order to simplify development and building in Go, we recommend using the gb build tool.</description>
+    </item>
+    
+    <item>
+      <title>Raspberry Pi</title>
+      <link>https://tibcosoftware.github.io/flogo/iot/device-pi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tibcosoftware.github.io/flogo/iot/device-pi/</guid>
+      <description>You can run your Flogo application on a Raspberry Pi device. (https://www.raspberrypi.org/) This documents contains all relevant information on this device including how to build.
+Build To build a flogo application for Raspberry Pi, you simply use the build command with the appropriate enviroment variables set.
+On mac or linux you execute the following command:
+env GOARM=6 GOARCH=arm GOOS=linux flogo build -o  On windows you excute the following commands:</description>
+    </item>
+    
+    <item>
+      <title>Intel Edison</title>
+      <link>https://tibcosoftware.github.io/flogo/iot/device-edison/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tibcosoftware.github.io/flogo/iot/device-edison/</guid>
+      <description>You can run your Flogo application on a Edison device. This documents contains all relevant information on this device including how to build.
+Build To build a flogo application for Edison, you simply use the build command with the appropriate enviroment variables set.
+On mac or linux you execute the following command:
+env GOARCH=386 GOOS=linux flogo build -o  On windows you excute the following commands:
+SET GOARCH=386 SET GOOS=linux flogo build -o  This will compile your application and place the binary in the bin directory.</description>
+    </item>
+    
+    <item>
+      <title>C.H.I.P</title>
+      <link>https://tibcosoftware.github.io/flogo/iot/device-chip/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tibcosoftware.github.io/flogo/iot/device-chip/</guid>
+      <description>You can run your Flogo application on a C.H.I.P. device. (https://getchip.com/pages/chip) This documents contains all relevant information on this device including how to build.
+Build To build a flogo application for C.H.I.P., you simply use the build command with the appropriate enviroment variables set.
+On mac or linux you execute the following command:
+env GOARM=7 GOARCH=arm GOOS=linux flogo build -o  On windows you excute the following commands:
+SET GOARM=7 SET GOARCH=arm SET GOOS=linux flogo build -o  This will compile your application and place the binary in the bin directory.</description>
+    </item>
+    
+    <item>
+      <title>BeagleBone</title>
+      <link>https://tibcosoftware.github.io/flogo/iot/device-beaglebone/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tibcosoftware.github.io/flogo/iot/device-beaglebone/</guid>
+      <description>You can run your Flogo application on a BeagleBone device. (http://beagleboard.org/bone) This documents contains all relevant information on this device including how to build.
+Build To build a flogo application for BeagleBone, you simply use the build command with the appropriate enviroment variables set.
+On mac or linux you execute the following command:
+env GOARM=7 GOARCH=arm GOOS=linux flogo build -o  On windows you excute the following commands:
+SET GOARM=7 SET GOARCH=arm SET GOOS=linux flogo build -o  This will compile your application and place the binary in the bin directory.</description>
+    </item>
+    
+  </channel>
+</rss>

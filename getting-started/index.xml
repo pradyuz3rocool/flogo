@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Getting started on Project Flogo - Docs and Tutorials</title>
+    <link>https://tibcosoftware.github.io/flogo/getting-started/</link>
+    <description>Recent content in Getting started on Project Flogo - Docs and Tutorials</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://tibcosoftware.github.io/flogo/getting-started/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Quickstart</title>
+      <link>https://tibcosoftware.github.io/flogo/getting-started/quickstart/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tibcosoftware.github.io/flogo/getting-started/quickstart/</guid>
+      <description>We think it is awesome that you want to get started with Project Flogo! To get started you don&amp;rsquo;t even need to install anything other than Docker!
+In this quickstart guide we&amp;rsquo;ll walk you through the prerequisites for getting up and running with your first Flogo app.
+Getting Docker To make it easy to get started the Flogo Web UI is packaged up as a docker image which you can get from docker hub.</description>
+    </item>
+    
+    <item>
+      <title>Flogo Web UI</title>
+      <link>https://tibcosoftware.github.io/flogo/getting-started/getting-started-webui/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tibcosoftware.github.io/flogo/getting-started/getting-started-webui/</guid>
+      <description>Getting Started For an overview of how to get started, check out the Quickstart guide
+Installing the Project Flogo Web UI Installing the Project Flogo Web UI is quite simple and requires nothing more than Docker pre-installed on your machine to fetch the Docker image.
+Fetching and starting the Web UI To get started with the latest version of the Flogo Web UI paste this command in a terminal window:</description>
+    </item>
+    
+    <item>
+      <title>Flogo CLI</title>
+      <link>https://tibcosoftware.github.io/flogo/getting-started/getting-started-cli/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tibcosoftware.github.io/flogo/getting-started/getting-started-cli/</guid>
+      <description>Before you get started Before you can get started with the cli tools you need to make sure you the Go programming language installed.
+Don&amp;rsquo;t forget to set your GOPATH variable and make sure that $GOPATH/bin is part of your path. (see here or here for more details)
+ Installing the cli tools Now that you&amp;rsquo;ve installed the Go programming language there are a few commands you can run to install the cli and make developing with the cli tools even easier</description>
+    </item>
+    
+  </channel>
+</rss>

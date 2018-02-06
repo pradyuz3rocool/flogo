@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Extensions on Project Flogo - Docs and Tutorials</title>
+    <link>https://tibcosoftware.github.io/flogo/development/extensions/</link>
+    <description>Recent content in Extensions on Project Flogo - Docs and Tutorials</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://tibcosoftware.github.io/flogo/development/extensions/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Building your first activity</title>
+      <link>https://tibcosoftware.github.io/flogo/development/extensions/building-your-first-activity/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tibcosoftware.github.io/flogo/development/extensions/building-your-first-activity/</guid>
+      <description>Creating a new activity for Project Flogo is not that hard! Let&amp;rsquo;s walk through the steps required to create a simple activity.
+Please make sure that you have installed the flogo tools as described in Getting Started &amp;gt; Flogo CLI.
+ The basic framework The easiest way to start creating activities is to have the flogogen CLI create the basic framework for you. The flogogen CLI takes two important parameters to create the framework for activities:</description>
+    </item>
+    
+    <item>
+      <title>Continuously testing Flogo activities</title>
+      <link>https://tibcosoftware.github.io/flogo/development/extensions/continuously-testing-flogo-activities/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tibcosoftware.github.io/flogo/development/extensions/continuously-testing-flogo-activities/</guid>
+      <description>Depending on where you store the source code and how publicly you want to have the code available you have a few options to continuously testing Flogo activities. Let&amp;rsquo;s look at Jenkins when using a local git server and Travis-CI for activities on GitHub
+Intro The project structure we&amp;rsquo;ll use has separate folders for activities and triggers. A sample layout would look like this:
+├───&amp;lt;Repo root&amp;gt; │ └───activity | | └───&amp;lt;my-activity&amp;gt; | | |───&amp;lt;all my files&amp;gt; │ └───trigger | └───&amp;lt;my-trigger&amp;gt; | |───&amp;lt;all my files&amp;gt;  A real life repository I created looks like this.</description>
+    </item>
+    
+    <item>
+      <title>Application Configuration Provider</title>
+      <link>https://tibcosoftware.github.io/flogo/development/extensions/application-configuration-provider/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tibcosoftware.github.io/flogo/development/extensions/application-configuration-provider/</guid>
+      <description>Unless you want to provide the application configuration (for example: flogo.json) in a different way or format you should not worry about this feature.
+We have provided an extension mechanism for you to override the default way of providing the application configuration if needed.
+Topics  Default behavior Embedded configuration Custom configuration  Default behavior Out of the box, the default behavior will be as follows:
+ Configuration will be passed to the engine in the JSON format Default path for the JSON file will be in the same directory as the application&amp;rsquo;s binary Default name for the JSON file will be &amp;ldquo;flogo.</description>
+    </item>
+    
+  </channel>
+</rss>
